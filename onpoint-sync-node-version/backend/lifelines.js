@@ -1,0 +1,2 @@
+// lifelines.js
+module.exports = {};

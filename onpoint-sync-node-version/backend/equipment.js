@@ -1,0 +1,2 @@
+// equipment.js
+module.exports = {};
