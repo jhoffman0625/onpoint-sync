@@ -1,0 +1,8 @@
+{
+  "name": "onpoint-sync",
+  "version": "1.0.0",
+  "main": "sync.js",
+  "scripts": {
+    "start": "node sync.js"
+  }
+}
